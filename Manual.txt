@@ -1,0 +1,19 @@
+Alumno: Velasco Osorio Aquino
+Grupo: 602-A
+Materia: Recuperación de la Información
+Trabajo: Técnica Boolean
+
+1.-Para compilar accdeder a la carpeta de archivo desde la consola, ya una vez situado en la carpeta
+hacer el comando g++ Bolean.cpp y por ultimo ./a.out para ejecutar el archivo en linux. En windowns puede
+igual desde consola o con id para c++.
+
+2.- Los archivos de entrada deberán estar en el mismo fichero que el Bolean.cpp-
+
+3.- Al ejecutar el archivo se deplegarán las dos tablas del técnica boolean.
+
+4.- Sele pedirá la setencia a evualuar el formato debe ser de este tipo ( T1 | T3 ) & T7.
+
+5.- Gracias
+
+ 
+
